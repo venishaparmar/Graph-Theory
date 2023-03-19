@@ -52,28 +52,30 @@
   </tr>
   
 </table>
-#### Resources used are:
-Bootstrap
+
+### Resources used are:
+- Bootstrap
 http://getbootstrap.com/
 
-jQuery
+- jQuery
 http://jquery.com/
 
-OwlCarousel
+- OwlCarousel
 https://owlcarousel2.github.io/OwlCarousel2/
 
-Isotope
+- Isotope
 https://isotope.metafizzy.co
 
-Select2
+- Select2
 https://select2.org
 
-Stellar
+- Stellar
 http://markdalgleish.com/projects/stellar.js/
 
-Lightcase
+- Lightcase
 https://cornel.bopp-art.com/lightcase/
 
-Demo Images:
+- Demo Images:
 http://unsplash.com
 
+#### :large_blue_diamond: As a part of our academic course in Discrete Mathematics and Graph Theory during our third semester,<br> my friend Khushi Pandya :link: https://github.com/khushi-79 and I collaborated on this project. We worked <br> as a team of two members to complete this project.
