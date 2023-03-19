@@ -7,8 +7,6 @@
 
 #### Furthermore, the project highlights the real-life applications of graphs, underscoring the significance and relevance of this field in contemporary society.
 
-## NOTE : :one: First Run "index.html" file.
-
 ### This Module includes the following Graphs:
 <table>
   
@@ -35,7 +33,8 @@
   </tr>
             
   
-</table>
+</table> 
+## NOTE : :one: First Run "index.html" file.               
 
 ### Resources used are:
 - Bootstrap
