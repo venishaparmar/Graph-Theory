@@ -78,4 +78,4 @@ https://cornel.bopp-art.com/lightcase/
 - Demo Images:
 http://unsplash.com
 
-#### :large_blue_diamond: As a part of our academic course in Discrete Mathematics and Graph Theory during our third semester,<br> my friend Khushi Pandya :link: https://github.com/khushi-79 and I collaborated on this project. We worked <br> as a team of two members to complete this project.
+#### :large_blue_diamond: As a part of our academic course in Discrete Mathematics and Graph Theory during our third semester, my friend Khushi Pandya :link: https://github.com/khushi-79 and I collaborated on this project. We worked as a team of two members to complete this project.
