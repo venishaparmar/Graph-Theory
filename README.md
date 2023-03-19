@@ -11,45 +11,29 @@
 
 ### This Module includes the following Graphs:
 <table>
-  <tr>
-    <th>Graphs</th>
-  </tr>
+  
   <tr>
     <td>Complete graph</td>
-  </tr>
-  <tr>
     <td>Bipartite graph</td>
+    <td>Wheel graph</td>
   </tr>
+ 
+  
   <tr>
     <td>Complete Bipartite graph</td>
-  </tr>
-  <tr>
     <td>Hamiltonian graph</td>
-  </tr>
-  <tr>
     <td>Euler graph</td>
-  </tr>
-  <tr>
+  <tr>  
     <td>Trees</td>
-  </tr>
-  <tr>
     <td>Cycle Graph</td>
+     <td>Splitting graph</td>
   </tr>
   <tr>
-    <td>Splitting graph</td>
-  </tr>
-  <tr>
-    <td>Planar graph</td>
-  </tr>
-  <tr>
-    <td>Planar graph</td>
-  </tr>
-  <tr>
+     <td>Planar graph</td>
     <td>Weighted graph</td>
+    <td>Individual graph</td> 
   </tr>
-  <tr>
-    <td>Individual graph</td>
-  </tr>
+            
   
 </table>
 
