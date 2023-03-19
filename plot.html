@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Graph Theory</title>
+    
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-116288086-2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-116288086-2");
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Graph Theory</title>
+
+    <link rel="icon" href="favicon.ico" type="image-d3/x-icon" />
+
+    <link href="css-d3/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css-d3/home-app.css" rel="stylesheet" />
+    <link href="css-d3/style.css" rel="stylesheet" />
+    <link href="/css-d3/style.min.css" rel="stylesheet"/>
+    </head>
+
+  <body data-spy="scroll" data-target="#navbar-nav-header" class="static-layout">
+    <div class="boxed-page">
+      <nav id="header-navbar" class="navbar navbar-expand-lg py-4">
+      <div class="container">
+          <a class="navbar-brand d-flex align-items-center text-white" href="/">
+              <h3 class="font-weight-bolder mb-0">Graph Theory</h3>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav-header" aria-controls="navbar-nav-header" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="lnr lnr-menu"></span>
+          </button>
+         </div>
+  </nav>
+  
+    <div class="container-fluid" id="status-container">
+      <div class="text-center">
+        <h1>Loading...</h1>
+      </div>
+    </div>
+
+    <!-- App Content -->
+    <div id="app-container" class="container hidden" class="center">
+      <div class="row">
+        <!-- <div id="theory-area" class="col-md-4 col-sm-12"> -->
+          <h2 id="content-title" class="text-center"> Plot graph</h2>
+          <hr class="under-title" />
+         
+
+        <div id="app-area" class="col-md-12 col-sm-12" class="text-center">
+          <div id="svg-buttons" class="text-center"></div>
+          <div id="svg-wrap"></div>
+          <div id="svg-output"></div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <div class="row" id="below-app">
+        <div class="col-md-2 col-sm-3 col-xs-3 text-left prev-wrap">
+          <a href="" class="map-flow prev"
+            ><span class="glyphicon glyphicon-menu-left"></span> Prev</a
+          >
+        </div>
+        <div class="col-md-6 col-md-offset-1 col-sm-6 col-xs-6"></div>
+        <div
+          class="col-md-2 col-md-offset-1 col-sm-3 col-xs-3 text-right next-wrap"
+        >
+          <a href="" class="map-flow next"
+            >Next <span class="glyphicon glyphicon-menu-right"></span
+          ></a>
+        </div>
+      </div>
+    </div>
+    
+    <script>
+      //to set svg dimensions throughout the app
+      var univSvgWidth;
+      var univSvgHeight;
+    </script>
+
+    
+    <script  src="js-d3/bootstrap.min.js"></script>
+    <script  src="js-d3/d3.v5.min.js"></script>
+    <script  src="js-d3/home-app.js"></script>
+    <script  src="js-d3/jquery-3.2.1.min.js"></script>
+    <script src="js-d3/content.js"></script>
+    <script src="js-d3/control.js"></script>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML-full"></script>
+  </body>
+</html>

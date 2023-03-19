@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="468.5,546.4 162.2,547.4 314.5,276 "/>
+<g>
+	<ellipse class="st1" cx="464.8" cy="546.4" rx="12.1" ry="10.6"/>
+</g>
+<g>
+	<ellipse class="st1" cx="165.3" cy="544.8" rx="12.1" ry="10.6"/>
+</g>
+<g>
+	<ellipse class="st1" cx="315.1" cy="281.6" rx="12.1" ry="10.6"/>
+</g>
+<g>
+	<ellipse class="st1" cx="315.1" cy="431.5" rx="12.1" ry="10.6"/>
+</g>
+<line class="st0" x1="314.5" y1="276" x2="315.1" y2="431.5"/>
+<line class="st0" x1="162.2" y1="547.4" x2="315.1" y2="431.5"/>
+<line class="st0" x1="468.5" y1="546.4" x2="315.1" y2="431.5"/>
+</svg>
