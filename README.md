@@ -1,9 +1,9 @@
 
 ## TITLE : Learning Module of Graph Theory :page_with_curl:
 
-#### This project consist comprehensive learning module on graph theory, showcasing various types of graphs for users to explore. Upon selecting a graph, the module provides a detailed definition and highlights key properties of that specific graph, accompanied by relevant examples.
+#### This project consist of a comprehensive learning module on graph theory, showcasing various types of graphs for users to explore. Upon selecting a graph, the module provides a detailed definition and highlights key properties of that specific graph, accompanied by relevant examples.
 
-#### Additionally, is has a separate plot area where users can create their own graphs. The system then displays key details about the graph, such as the number of edges, number of vertices, and degree of the graph.
+#### Additionally, it has a separate plot area where users can create their own graphs. The system then displays key details about the graph, such as the number of edges, number of vertices, and degree of the graph.
 
 #### Furthermore, the project highlights the real-life applications of graphs, underscoring the significance and relevance of this field in contemporary society.
 
